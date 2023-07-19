@@ -1,0 +1,13 @@
+{
+  "name": "aws-iot-core-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@ssh.gitlab.aws.dev:yboelens/aws-iot-core-demo.git",
+  "author": "Yarno Boelens <yboelens@amazon.pl>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "aws-iot-device-sdk-v2": "^1.8.8"
+  }
+}

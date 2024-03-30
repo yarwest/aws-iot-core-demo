@@ -9,5 +9,8 @@
   "type": "module",
   "dependencies": {
     "aws-iot-device-sdk-v2": "^1.8.8"
+  },
+  "scripts": {
+    "start": "node message_broker_demo.js"
   }
 }

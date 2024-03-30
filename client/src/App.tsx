@@ -22,7 +22,7 @@ function App() {
           <h3>Received messages:</h3>
       </div>
       <button onClick={() => updateShadow(true)}>Enable feature</button>
-      <button onClick={() => updateShadow(true)}>Disable feature</button>
+      <button onClick={() => updateShadow(false)}>Disable feature</button>
     </div>
   );
 }

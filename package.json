@@ -1,7 +1,7 @@
 {
   "name": "aws-iot-core-demo",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "message_broker_demo.js",
   "repository": "github.com/yarwest/aws-iot-core-demo.git",
   "author": "Yarno Boelens <yarnoboelens@gmail.com>",
   "license": "MIT",

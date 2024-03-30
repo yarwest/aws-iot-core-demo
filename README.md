@@ -1,6 +1,6 @@
 # AWS IoT Core demo
 
-Demonstration of integration with AWS IoT Core.
+This repository contains the code for a demo application which was used during my presentation titled "Introduction to AWS IoT Core" at the AWS User meetup organized by Philip Morris in Krakow on September 21st 2022: https://www.youtube.com/watch?v=EXWysnJ7TeU&t=5320s
 
 ## Frontend application
 The `client` directory contains a React application which simulates an IoT client.
